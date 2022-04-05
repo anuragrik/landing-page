@@ -131,6 +131,7 @@ a{
     display: flex;
     border-radius: 6px;
     padding: 40px;
+    gap: 15px;
     color: white;
     align-items: center;
     justify-content: center;
